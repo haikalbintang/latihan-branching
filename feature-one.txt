@@ -1,0 +1,3 @@
+AI Cam
+
+- can generate new picture
